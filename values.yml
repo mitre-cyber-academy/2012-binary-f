@@ -1,0 +1,7 @@
+--- 
+name: "Discovery - Segmentum Obscurus, Koronus Expanse"
+description: |
+  Engineer! We have discovered this [ancient relic](http://$static_file_server/bf-725b160d8fda431cb78efe51845878e1/relic) from Holy Terra. However, it's purpose is most arcane. It was recovered from a cogitator on the planet of Magoros among the Foundling Worlds. Perhaps you can assuage its machine spirit and discover what message it is trying to impart?
+  
+  MD5: be8aa9f15eda2b40b87b745c31bf7b93
+flag: "MCA-173E6D84"
